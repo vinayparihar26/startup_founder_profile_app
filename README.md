@@ -1,16 +1,38 @@
-# startup_founder_profile_app
+# Startup Founder Profile - Flutter App
+This is a Flutter UI for a **Startup Founder Profile Page**.  
+It shows the founder's details like profile image, name, bio, and social media links.
 
-A new Flutter project.
+## 📱 Features
+- Clean and modern UI
+- Profile photo 
+- Bio or description section
+- Horizontal list of founder avatars
+- Responsive design
 
-## Getting Started
+## 🚀 How to Run
+1. Clone the repo:
+git clone https://github.com/your-username/startup-founder-profile.git
 
-This project is a starting point for a Flutter application.
+2. Go to the project folder:
+cd startup-founder-profile
 
-A few resources to get you started if this is your first Flutter project:
+3. Run the app:
+flutter pub get
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Dependencies
+- `flutter`
+-  font_awesome_flutter:   
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/11d5277f-10ff-405a-818a-8788f8df2a52)
+![image](https://github.com/user-attachments/assets/32a29b3e-644b-49d9-befc-25985273c0f4)
+
+## 🙌 Contributing
+Feel free to fork and improve it. Pull requests are welcome!
+
+## 🧑‍💻 Author
+Built by [Vinay parihar] - Flutter Developer
+
+## 📄 License
+This project is open source and free to use.
